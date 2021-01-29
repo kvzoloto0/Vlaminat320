@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');            /*font-family: 'Comfortaa', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;700&display=swap');          /*font-family: 'Montserrat', sans-serif;*/
+
+
+
+
+
+.logoBlock{
+    display: flex;
+}
+
+.blockWithText {
+    margin-top: 32px;
+    margin-left: 5px;
+    font-family: 'Comfortaa';
+    font-size: 17px;
+    line-height: 17px;
+    letter-spacing: 0.155em;
+    color: #4A4A4A;
+    opacity: 0.9;
+}
+
+.buttonNav {
+    font-size: 10px;
+}
+
+nav {
+    margin-top: 11px;
+    margin-left: 22px;
+}
+
+.provideChernivtsi {
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 32px;
+    letter-spacing: 0.013em;
+    color: #4A4A4A;
+}
+
+.colorLetter {
+    color: #FAC575;
+}
+
+.contentText {
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+    color: #4A4A4A;
+}
+
+.lineHeight {
+    margin-top: 10px;
+    line-height: 2.5;
+}
+
+.quickConsultation {
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 25px;
+    width: 88%;
+    height: 56px;
+    margin: 16px 20px;
+}
+
+.quickConsultationText {
+    font-family: Montserrat;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
